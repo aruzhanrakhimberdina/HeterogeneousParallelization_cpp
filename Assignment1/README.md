@@ -26,32 +26,6 @@
 
 ---
 
-## Сборка и запуск
-
-### Использование g++ (MinGW / MSYS2 / Linux)
-
-**Задание 1**
-
-g++ -O2 -std=c++17 task1.cpp -o task1
-./task1
-
-**Задание 2**
-
-g++ -O2 -std=c++17 task2.cpp -o task2
-./task2
-
-**Задание 3**
-
-g++ -O2 -std=c++17 -fopenmp task3.cpp -o task3
-./task3
-
-**Задание 4**
-
-g++ -O2 -std=c++17 -fopenmp task4.cpp -o task4
-./task4
-
-
----
 
 ## Контрольные вопросы к Assignment 1  
 *(Основы C/C++ и OpenMP)*
